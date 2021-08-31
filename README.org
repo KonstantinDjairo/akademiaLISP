@@ -1,0 +1,10 @@
+** Ἀκαδημία LISP
+
+a very fast web application written in Rust that compiles to WASM
+
+goals :
+> related to consume less as possible
+> old school vintage look (90' computers)
+> chat rooms
+> post content (only text)
+> be secure in terms of memory safety and SQL 
